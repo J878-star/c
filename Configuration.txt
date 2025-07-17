@@ -1,6 +1,6 @@
 mixed-port: 7890
 allow-lan: false
-mode: rule
+mode: global
 log-level: warning
 external-controller: '127.0.0.1:9090'
 clash-for-android:
